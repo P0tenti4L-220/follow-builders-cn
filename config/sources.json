@@ -1,0 +1,21 @@
+{
+  "language": "zh-CN",
+  "timezone": "Asia/Shanghai",
+  "github_repository": "P0tenti4L-220/follow-builders-cn",
+  "github_branch": "main",
+  "selection_verified_on": "2026-10-30",
+  "selection_method": "从用户当前登录的 X 关注页人工选取公开的中文 AI 与开发作者；简介仅作自我介绍参考，不作为资质核验。",
+  "sources": [
+    {"handle": "cxjwin", "name": "码良", "topics": ["工程实践", "Agent 面试", "iOS"], "focus": "开发实践、踩坑记录与技术面试。"},
+    {"handle": "LinearUncle", "name": "LinearUncle", "topics": ["AI 编程", "工程实践"], "focus": "AI 编程工具与工程师工作流。"},
+    {"handle": "xiaomovps", "name": "小墨同学", "topics": ["Agent", "Harness", "硬件"], "focus": "Agent 工具实操、token 使用和硬件探索。"},
+    {"handle": "bylixing", "name": "张立行", "topics": ["Agent", "Context", "产品实践"], "focus": "Agent 构建、上下文管理与产品实践。"},
+    {"handle": "UPing123zzz", "name": "Ethan 恩宇", "topics": ["AI 落地", "FDE", "软件交付"], "focus": "从需求到验收的 AI 项目实践。"},
+    {"handle": "victor_wu", "name": "victor-wu.eth", "topics": ["AI 编程", "产品实践"], "focus": "Vibe coding 产品、工具使用与踩坑。"},
+    {"handle": "yifanxu_ephai", "name": "Yifan Xu", "topics": ["Agent", "Sandbox", "基础设施"], "focus": "LayerFS、Ephemeral Sandbox 等构建记录。"},
+    {"handle": "Khazix0918", "name": "数字生命卡兹克", "topics": ["AI 产品", "应用体验"], "focus": "AI 产品与应用观察。"},
+    {"handle": "antiAIvo", "name": "纳米AI", "topics": ["LLM", "Agent", "推理", "训练"], "focus": "大模型与 Agent 教程及学习路线。"},
+    {"handle": "konghayao", "name": "KonghaYao - 江夏尧", "topics": ["Agent", "AI 编程", "开源"], "focus": "Peri Code、Fenix OS 与 Agent 工具构建。"},
+    {"handle": "Jerry_fsy", "name": "Jerry Fang", "topics": ["Agent", "RAG", "Context", "基础设施"], "focus": "Agent、推理和基础设施的公开学习与实践。"}
+  ]
+}
